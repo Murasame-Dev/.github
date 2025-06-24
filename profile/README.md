@@ -1,4 +1,4 @@
-![Kawaii Murasame!](./kawaii.jpg)
+![Kawaii Murasame!](https://github.com/Murasame-Dev/.github/blob/main/profile/kawaii.jpg)
 
 <p align="center">
 这些可爱的丛雨酱是来自<a href="https://x.com/uoouchan">@uoouchan</a>的！<br>
